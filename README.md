@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esra SEN</h1>
 <h3 align="center">Full Stack Developer</h3>
+<p> I graduated with a degree in Computer Engineering in 2020. I develop applications using Java and Spring Boot. Additionally, I specialize in front-end development and design. I create websites using HTML, CSS, Bootstrap, Tailwind and React. I enjoy learning new technologies and creating innovative designs.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esrasen&label=Profile%20views&color=0e75b6&style=flat" alt="esrasen" /> </p>
 
